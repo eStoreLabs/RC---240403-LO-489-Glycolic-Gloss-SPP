@@ -490,6 +490,12 @@ body {
 #es-elseve.es-elseve .es-info__line {
   display: none;
 }
+#es-elseve.es-elseve .es-info__disclaimer {
+  display: inline-block;
+  margin-top: 10px;
+  font-size: 10px;
+  text-transform: uppercase;
+}
 #es-elseve.es-elseve .es-ba {
   margin-bottom: 70px;
 }
@@ -901,7 +907,7 @@ body {
     flex-flow: row-reverse;
   }
   #es-elseve.es-elseve .es-info__content {
-    padding: 28px;
+    padding: 20px;
     flex: 1;
     max-width: 50%;
     display: flex;
@@ -924,7 +930,7 @@ body {
   }
   #es-elseve.es-elseve .es-info__name {
     margin-bottom: 20px;
-    font-size: 21px;
+    font-size: 19px;
   }
   #es-elseve.es-elseve .es-ba__title {
     font-size: 24px;
